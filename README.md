@@ -1,6 +1,6 @@
 # User-Activity-Recognition
 
-[Data Source Link]:{https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/}
+[Data Source Link]{https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/}
 
 In this spark project, real-time data collection and aggregation from a simulated real-time system is being done.
 
